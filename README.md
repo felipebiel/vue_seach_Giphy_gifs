@@ -1,5 +1,6 @@
 # Buscador de Gifs na API publica Giphy
 <p>Criação de uma website utilizando o Semantic UI e Vue JS. Consumir a API pública de desenvolvedores do Giphy para:</p>
+
 - Listar gifs através de uma busca;
 - Visualizar os detalhes de um gif;
 - Scroll infinito de gifs.
@@ -7,6 +8,7 @@
 <p>O backend está alocado em outro projeto, mas teremos algo salvo em nosso servidor, especialmente o nome e o link
 do gif. Crie funções para simular a comunicação com um backend que faça:
 </p>
+
 - Salvar os gifs;
 - Editar os dados de um gif salvo;
 - Deletar um gif.
@@ -15,6 +17,7 @@ do gif. Crie funções para simular a comunicação com um backend que faça:
 <p>
 O projeto conta com o arquivo docker-compose.yml, para a criação de um container Docker. Para isso execute o comando:
 </p>
+
 `docker-compose up`
 
 ## Documentações e Links:
