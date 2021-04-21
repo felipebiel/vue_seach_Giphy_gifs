@@ -1,4 +1,4 @@
-const URL_GIF = "http://api.giphy.com/v1/";
+const URL_GIF = "https://api.giphy.com/v1/";
 const API_KEY = "5UtkACWMDStNsWyQW5wECnE8IiVd4TSS";
 
 const URL_BACKEND = 'http://localhost.com'
